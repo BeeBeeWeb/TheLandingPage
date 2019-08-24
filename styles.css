@@ -1,0 +1,17 @@
+body {
+  background-image: url('banner.jpg');
+  background-size: cover;
+}
+
+button {
+  color: white;
+  background: #FDA806;
+  padding: 20px 50px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  font-weight: bold;
+  margin: 20px;
+  cursor: pointer;
+  border-radius: 30px;
+}
